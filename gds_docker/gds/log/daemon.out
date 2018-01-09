@@ -1,0 +1,106 @@
+Start Running...
+2017-10-06 16:03:06,903:2936(0x7f652fbbb700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:03:06.903|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:03:06.903|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:08:35,787:2984(0x7f21ce9a6700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:08:35.787|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:08:35.787|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:08:46,817:3008(0x7f4751cb5700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:08:46.817|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:08:46.817|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:08:57,835:3022(0x7f142732c700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:08:57,835:3022(0x7f142732c700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:08:57.835|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:08:57.835|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:09:08,852:3036(0x7fbef9de2700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:09:08.852|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:09:08.852|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:09:19,870:3047(0x7f1aa9037700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:09:19,870:3047(0x7f1aa9037700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:09:19.870|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:09:19.870|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:09:30,888:3061(0x7fc3906eb700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:09:30.888|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:09:30.888|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:09:32,295:3069(0x7f3b29df3700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:09:32.295|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:09:32.295|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:09:41,906:3081(0x7f62bea17700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:09:41.906|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:09:41.906|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:09:52,923:3092(0x7fa8a1116700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:09:52.923|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:09:52.923|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:10:03,942:3114(0x7fbf8cb86700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:10:03.942|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:10:03.942|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:10:14,961:3126(0x7efeaf568700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:10:14.961|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:10:14.961|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:10:25,979:3137(0x7f2b25c42700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:10:25.979|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:10:25.979|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:10:36,997:3150(0x7fc907a54700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:10:36.997|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:10:36.997|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:10:48,014:3161(0x7f5d00a9d700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:10:48.014|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:10:48.014|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:10:59,031:3172(0x7ff19d4a3700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:10:59.031|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:10:59.031|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:11:10,049:3190(0x7f965b86f700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:11:10.050|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:11:10.050|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:11:21,067:3201(0x7ff2ec304700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:11:21.067|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:11:21.067|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:11:32,084:3212(0x7ff2ced62700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:11:32.084|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:11:32.084|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:11:43,102:3225(0x7fe8b351c700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:11:43.102|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:11:43.102|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:11:54,119:3236(0x7f4a40206700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:11:54.119|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:11:54.119|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:12:05,137:3249(0x7f03610d3700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:12:05.137|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:12:05.137|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:12:16,154:3261(0x7f849966e700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:12:16.155|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:12:16.155|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:12:27,172:3272(0x7fe31b26b700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:12:27.172|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:12:27.172|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:12:38,190:3286(0x7fdbaa96e700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:12:38.190|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:12:38.190|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181
+Start Running...
+2017-10-06 16:12:47,242:3291(0x7fdf7d3a8700):ZOO_ERROR@handle_socket_error_msg@1722: Socket [127.0.0.1:2181] zk retcode=-4, errno=111(Connection refused): server refused to accept the client
+2017-10-06 16:12:47.242|WARN|zookeeper_util|get_data_fail|path=/,error=-4
+2017-10-06 16:12:47.242|ERROR|zookeeper_util|connect_fail|addr=127.0.0.1:2181

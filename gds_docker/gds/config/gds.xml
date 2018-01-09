@@ -1,0 +1,33 @@
+<!-- gds config file example -->
+<!-- Please move this file to config/gds.xml -->
+<config>
+    <output>log/daemon.out</output>
+    <binlog>
+        <!-- Read all files match ^mysql-bin\.\d{6}$ under this directory -->
+        <dir>/var/log/mysql</dir>
+        <!-- Start from this binlog -->
+        <file>/var/lib/mysql/mysql-bin.000001</file>
+        <position>0</position>
+        <!-- Use Regex to match database name and table name -->
+        <tables>*\.*</tables>
+        <!-- Use operations to filter specifial operations, default is contains all -->
+        <operations>UPDATE,INSERT,DELETE</operations>
+    </binlog>
+    <kafka>
+        <brokers>172.10.1.2:9092</brokers>
+        <topic>auto_test</topic>
+        <partition>0</partition>
+        <buffer>30000</buffer>
+    </kafka>
+    <zookeeper>
+        <!-- Use comma as delimiter when multi servers -->
+        <!-- Example: auto_test:2181,127.0.0.2:2181,127.0.0.3:2181 -->
+        <hosts>172.10.1.1:2181</hosts>
+        <!-- /gds/database_table -->
+        <znode>/gds/auto_test</znode>
+    </zookeeper>
+    <exchange>
+        <!-- Sleep time when meet EOF in exchange; Unit: ms -->
+        <eofsleep>2</eofsleep>
+    </exchange>
+</config>
